@@ -9,3 +9,4 @@ uvicorn
 streamlit
 matplotlib
 seaborn
+plotly
